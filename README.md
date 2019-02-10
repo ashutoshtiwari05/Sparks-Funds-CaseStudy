@@ -1,1 +1,1 @@
-# Sparks-Funds-CaseStudy
+# Funds-CaseStudy
